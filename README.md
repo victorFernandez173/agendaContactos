@@ -6,4 +6,4 @@
 
 -Conserva los datos
 
--Incluyo el código un ejecutable '-jar'
+-Incluyo el código y ejecutable '-jar'
